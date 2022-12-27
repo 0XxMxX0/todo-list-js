@@ -1,11 +1,48 @@
-<center>
-    <h1 style="font-family:Verdana, Geneva, Tahoma, sans-serif">TODO-LIST</h1>
-    <img src='./IMG/capa.png'>
-</center>
+<h1 align="center">
+  <p>TODO-LIST</p>
+  <img src='./IMG/capa.png' alt="Docusaurus"><
+</h1>
 
-https://img.shields.io/badge/
-<LABEL>-<MESSAGE>-<COLOR></COLOR>
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=VERSÃO&message=1.0.0&color=10403B&style=for-the-badge)
+![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=DATA%20DA%20CRIAÇÃO&message=DEZ/22&color=127369&style=for-the-badge)
 
 > **Esse projeto foi bastante desafiador para mim, pois a integração
 do JavaScript com o local storage no inicio é bastante complicado,
 mas depois ficou tranquilo.**
+    
+# Índice 
+
+* [Descrição do Projeto 🎯](#descrição-do-projeto-)
+* [Índice](#índice)
+* [Funcionalidades do projeto](#funcionalidades-do-projeto-)
+* [Demostração do projeto ✨](#demostração-do-projeto-)
+* [tecnologias utilizadas no projeto 🌐](#tecnologias-utilizadas-no-projeto-)
+    
+# Descrição do Projeto 🎯
+#### O Todo list foi feito para que o usuario consiga de forma pratica e agíl registrar as suas tarefas, metas e objetivos e de forma rapida da um 'check'(concluido),
+diferente dos outros gerenciadores de tarefas que temos por ai o TODO tem o objetivo de ser pratico e sem aquela tela toda complexa que os demais tem por ai, ele é 'papum', ou seja, você escreve, adiciona e quando concluir é so aperta na tarefa que ele rapidamente some com ela do mapa rsrs.
+> Projeto em constante atualização :bulb:
+    
+# Funcionalidades do projeto ⚙
+
+### Funcionalidades Concluidas 🏆
+- `Funcionalidade 1`: Posibilidade de adicionar quantidades ilimitadas de tarefas.
+- `Funcionalidade 2`: Posibilidade do usuario alterar o status das suas tarefas, metas e objetivos para concluido.
+
+### Funcionalidades futuras 📌
+- `Funcionalidade 3`: Capacidade de buscar um historico de até 50 tarefas concluidas. 
+- `Funcionalidade 4`: Capacidade de edição das tarefas, objetivos e metas. 
+- `Funcionalidade 5`: Dark-mode.
+
+### Demostração do projeto ✨
+https://user-images.githubusercontent.com/83671782/209735987-6b1afd17-09c3-4f5f-a91a-7ccbf7e9a2e2.mp4
+> Video gravado usando a versão 1.0.0 :bulb:
+    
+#### Para testar o projeto basta apertar no botão logo abaixo:
+
+> 📁 Acesso ao projeto - <a href=""></a>
+
+# tecnologias utilizadas no projeto 🌐
+- `JavaScript` <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+- `HTML5` <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+- `CSS3` <img  height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
