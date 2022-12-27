@@ -17,7 +17,8 @@ mas depois ficou tranquilo.**
 * [Funcionalidades do projeto](#funcionalidades-do-projeto-)
 * [Demostração do projeto ✨](#demostração-do-projeto-)
 * [tecnologias utilizadas no projeto 🌐](#tecnologias-utilizadas-no-projeto-)
-    
+* [Criador 🐱‍👤](#criador-)
+  
 # Descrição do Projeto 🎯
 #### O Todo list foi feito para que o usuario consiga de forma pratica e agíl registrar as suas tarefas, metas e objetivos e de forma rapida da um 'check'(concluido),
 diferente dos outros gerenciadores de tarefas que temos por ai o TODO tem o objetivo de ser pratico e sem aquela tela toda complexa que os demais tem por ai, ele é 'papum', ou seja, você escreve, adiciona e quando concluir é so aperta na tarefa que ele rapidamente some com ela do mapa rsrs.
@@ -46,3 +47,8 @@ https://user-images.githubusercontent.com/83671782/209735987-6b1afd17-09c3-4f5f-
 - `JavaScript` <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 - `HTML5` <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 - `CSS3` <img  height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+
+# Criador 🐱‍👤
+
+| [<img src="https://avatars.githubusercontent.com/u/83671782?v=4" width=115><br><sub>Matheus Nunes</sub>](https://github.com/0XxMxX0)
+| :---: 
