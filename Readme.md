@@ -1,6 +1,6 @@
 <h1 align="center">
   <p>TODO-LIST</p>
-  <img src='./IMG/capa.png' alt="Docusaurus"><
+  <img src='./IMG/capa.png'><
 </h1>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=VERSÃO&message=1.0.0&color=10403B&style=for-the-badge)
@@ -44,9 +44,7 @@ https://user-images.githubusercontent.com/83671782/209735987-6b1afd17-09c3-4f5f-
 > 📁 Acesso ao projeto - <a href=""></a>
 
 # tecnologias utilizadas no projeto 🌐
-- `JavaScript` <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-- `HTML5` <img height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-- `CSS3` <img  height='20px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img height='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>   <img height='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>   <img  height='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/> 
 
 # Criador 🐱‍👤
 
