@@ -1,6 +1,6 @@
 <h1 align="center">
   <p>TODO-LIST</p>
-  <img src='./IMG/capa.png'><
+  <img src='./IMG/capa.png'>
 </h1>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=VERSÃO&message=1.0.0&color=10403B&style=for-the-badge)
