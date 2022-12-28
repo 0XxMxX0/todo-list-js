@@ -44,7 +44,9 @@ https://user-images.githubusercontent.com/83671782/209735987-6b1afd17-09c3-4f5f-
 > 📁 Acesso ao projeto - <a href="https://0xxmxx0.github.io/todo-list-js/Todo-list%20-%20Local%20storage.html">Todo list</a>
 
 # tecnologias utilizadas no projeto 🌐
-<img height='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>   <img height='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>   <img  height='60px' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/> 
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css&theme=dark)](https://skills.thijs.gg)
+
 
 # Criador 🐱‍👤
 
